@@ -1,2 +1,2 @@
-# imdb-project
-This Is API Fro Generate Data From IMDB
+# IMDB PROJECT
+This Is API Script For Generate Data From IMDB
